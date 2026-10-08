@@ -105,21 +105,21 @@ selectFeature(0);
 const worlds = [
   {
     id: 'starport', title: '星港边界', english: 'BEYOND THE STARPORT',
-    image: 'assets/arcade-starport.png',
+    image: 'assets/arcade-starport.webp',
     alt: '科幻游戏概念：小机器人探索方块星港，巨大的粉色星门与黄色航道延伸向太空',
     description: '把远方的星港，变成可以走进去的目的地。围绕第三人称探索，串联角色操作、关卡动线与清晰的目标反馈。',
     tags: ['第三人称', '科幻场景', '关卡动线', '角色反馈'],
   },
   {
     id: 'islands', title: '浮岛物语', english: 'A WORLD ABOVE THE CLOUDS',
-    image: 'assets/arcade-islands.png',
+    image: 'assets/arcade-islands.webp',
     alt: '风格化冒险游戏概念：小机器人跃入云海浮岛，方块瀑布与粉色跳台连接探索路径',
     description: '给想象一点轻盈的颜色。从浮空岛的场景搭建，到资源组合、可交互物件与界面提示，让小世界拥有完整的游玩节奏。',
     tags: ['风格化世界', '场景搭建', '资源整合', '界面交互'],
   },
   {
     id: 'ruins', title: '遗迹回响', english: 'ECHOES OF THE ANCIENTS',
-    image: 'assets/arcade-ruins.png',
+    image: 'assets/arcade-ruins.webp',
     alt: '探索游戏概念：方块遗迹悬浮在云海中，黄色机关指引小机器人走向粉色能量门',
     description: '在沉睡的石殿里，让光成为玩家的向导。从空间节奏、环境氛围到机关反馈，把探索的每一步连接起来。',
     tags: ['探索冒险', '环境叙事', '光照氛围', '机关交互'],
